@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "read_account_reason",
+      "value": "Read accounting data"
+    },
+    {
+      "name": "write_account_reason",
+      "value": "Write accounting data"
+    },
+    {
+      "name": "module_desc",
+      "value": "个人记账本"
+    },
+    {
+      "name": "entry_ability_desc",
+      "value": "记录收支"
+    },
+    {
+      "name": "entry_ability_label",
+      "value": "记账本"
+    }
+  ]
+}
